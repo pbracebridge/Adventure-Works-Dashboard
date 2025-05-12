@@ -39,10 +39,15 @@ To explore the dashboard:
 
 # 📸 Preview
 
-**Data Model**
+## Data Model
+![Data Model](Images/Data%20Model.png)
 
-**Executive Summary Page**
+## Executive Summary Page
+![Executive Summary](Images/Executive%20View.png)
 
-**Map View Page**
+## Map View Page
+![Map View](Images/Map%20View.png)
 
-**Customer Detail Page**
+## Customer Detail Page
+![Customer Details](Images/Customer%20Details.png)
+
